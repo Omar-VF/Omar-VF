@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Omar
+- 👀 I’m interested in Python Web development
+- 🌱 I’m currently learning Django
+- 📫 How to reach me omarvfais@gmail.com
