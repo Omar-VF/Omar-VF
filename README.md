@@ -1,9 +1,9 @@
 -Hi, I’m Omar
 
--Age : 17
+-Age : 19
 
--I’m interested in Python Web development
+-I’m interested in Web development
 
--I’m currently learning Django & Web scraping
+-Software Development student at VIT,Vellore
 
 📫 omarvfais@gmail.com
