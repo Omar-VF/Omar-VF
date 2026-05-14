@@ -2,8 +2,8 @@
 
 -Age : 19
 
--I’m interested in Web development
+-Backend Web developer
 
--Software Development student at VIT,Vellore
+-Software Engineering student at VIT,Vellore
 
 📫 omarvfais@gmail.com
