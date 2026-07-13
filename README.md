@@ -2,7 +2,7 @@
 
 -Age : 19
 
--Backend Web developer
+-Backend developer
 
 -Software Engineering student at VIT,Vellore
 
